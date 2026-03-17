@@ -1,4 +1,15 @@
-🎬 Movie Recommender System
+# 🎬 Movie Recommender System
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flutter](https://img.shields.io/badge/Flutter-UI-blue?logo=flutter)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data-purple?logo=pandas)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/fr45201-collab/movie-recommender-system)
+![GitHub stars](https://img.shields.io/github/stars/fr45201-collab/movie-recommender-system)
+![GitHub forks](https://img.shields.io/github/forks/fr45201-collab/movie-recommender-system)
 
 A full-stack Movie Recommender System built using Machine Learning (TF-IDF) and a Flutter-based frontend, designed with a modern Netflix-style UI.
 

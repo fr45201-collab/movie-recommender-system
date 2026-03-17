@@ -7,10 +7,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data-purple?logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fr45201-collab/movie-recommender-system)
-![GitHub stars](https://img.shields.io/github/stars/fr45201-collab/movie-recommender-system)
-![GitHub forks](https://img.shields.io/github/forks/fr45201-collab/movie-recommender-system)
-
 A full-stack Movie Recommender System built using Machine Learning (TF-IDF) and a Flutter-based frontend, designed with a modern Netflix-style UI.
 
 ---
